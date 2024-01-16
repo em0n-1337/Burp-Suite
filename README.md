@@ -34,4 +34,7 @@ Here we need an extra tools in dwm which is wmname. Git clone the repository
 git clone https://git.suckless.org/wmname
 ```
 
-Open terminal and make those files and then type ```wmname LG3D```. Now we are good to go, launch burpsuite and hack :) websites
+Open terminal and make those files and then type ```wmname LG3D```. Now we are good to go, launch burpsuite from the application launcher and hack :) websites
+
+
+**NOTE: Once BurpSuite is installed and activated, there is no need to run loader.jar file again. BurpSuite can be accessed from the application launcher**

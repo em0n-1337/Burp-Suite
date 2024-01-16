@@ -29,7 +29,7 @@ After installing jre and burpsuite, open a new terminal and type ```java -jar lo
 
 
 ## Installing on DWM
-Here we need an extra tools in dwm which is wmname. Git clone the repository
+Here we need an extra tool in dwm which is wmname. Git clone the repository
 ```javascript
 git clone https://git.suckless.org/wmname
 ```

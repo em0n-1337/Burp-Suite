@@ -25,7 +25,7 @@ bash Linux_setup.sh
 
 
 ## Manual activation
-After installing jre and burpsuite, open a new terminal and type ```java -jar loader.jar``` and then open your application launcher and type **burpsuite** and launch it. ```Copy key from loader.jar > paste into burpsuite > select manual activation > copy key from burpsuite > paste into loader.jar > copy key from loader.jar > paste into burpsuite > ok``` 
+After installing jre and burpsuite, open a new terminal > go to burpsuite-pro directory and type ```java -jar loader.jar``` and then open your application launcher and type **burpsuite** and launch it. ```Copy key from loader.jar > paste into burpsuite > select manual activation > copy key from burpsuite > paste into loader.jar > copy key from loader.jar > paste into burpsuite > ok``` 
 
 
 ## Installing on DWM

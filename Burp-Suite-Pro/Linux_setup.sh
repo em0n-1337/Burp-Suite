@@ -6,7 +6,7 @@ WH='\e[97m'
 BL='\e[34m'
 
 
-echo "[+] Installing all the necessary dependencies for burpsuite. Please wait..."
+echo -e "${GR}[+]${GR}${BL} Installing all the necessary dependencies for burpsuite. Please wait...${BL}"
 
 # Check if Java JDK 19 is installed
 if ! command -v javac >/dev/null 2>&1; then

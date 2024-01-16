@@ -19,13 +19,13 @@ git clone https://github.com/em0n-1337/Burp-Suite.git
 Open terminal and paste these commands
 ```javascript
 cd Burp-Suite/Burp-Suite-Pro
-su
+sudo su
 bash Linux_setup.sh
 ```
 
 
 ## Manual activation
-After installing jre and burpsuite, open a new terminal and type ```java -jar loader.jar``` and then open your application launcher and type **burpsuite** and launch it. ```Copy key > paste into burpsuite > copy > paste into loader.jar > copy > paste into burpsuite > ok``` 
+After installing jre and burpsuite, open a new terminal and type ```java -jar loader.jar``` and then open your application launcher and type **burpsuite** and launch it. ```Copy key from loader.jar > paste into burpsuite > copy key from burpsuite > paste into loader.jar > copy key from loader.jar> paste into burpsuite > ok``` 
 
 
 ## Installing on DWM
